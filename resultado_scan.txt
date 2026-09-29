@@ -1,8 +1,7 @@
 SCAN DE PORTAS
 ========================================
-Alvo: 127.0.0.1
-Data: 2026-09-29 09:30:51.118355
-Tempo: 311.58 segundos
+Alvo: 10.99.185.121
+Data: 2026-09-29 10:44:31.661503
+Tempo: 310.73 segundos
 
-Porta 135 - epmap - ABERTA
-Porta 445 - microsoft-ds - ABERTA
+Nenhuma porta aberta encontrada.

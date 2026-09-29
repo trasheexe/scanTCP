@@ -86,9 +86,8 @@ def salvar_json(ip, resultados, tempo_total):
     print(f"[+] Resultado salvo em {nome_arquivo}")
 
 
-print("=" * 50)
+
 print("           PYTHON PORT SCANNER")
-print("=" * 50)
 
 alvo = input("\nDigite o IP do laboratório: ")
 
@@ -131,12 +130,11 @@ if porta_inicial > porta_final:
     exit()
 
 
-print("\n" + "=" * 50)
 
 print(f"Alvo: {ip}")
 print(f"Portas: {porta_inicial} até {porta_final}")
 
-print("=" * 50)
+
 
 print("\nIniciando scan...\n")
 
@@ -172,11 +170,10 @@ fim = time.time()
 tempo_total = fim - inicio
 
 
-print("\n" + "=" * 50)
+
 
 print("SCAN FINALIZADO")
 
-print("=" * 50)
 
 print(f"Tempo total: {tempo_total:.2f} segundos")
 
