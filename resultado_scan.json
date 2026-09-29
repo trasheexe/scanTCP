@@ -1,0 +1,18 @@
+{
+    "alvo": "127.0.0.1",
+    "data": "2026-09-29 09:30:51.121949",
+    "tempo_segundos": 311.58,
+    "quantidade_portas_abertas": 2,
+    "portas": [
+        {
+            "porta": 135,
+            "servico": "epmap",
+            "status": "aberta"
+        },
+        {
+            "porta": 445,
+            "servico": "microsoft-ds",
+            "status": "aberta"
+        }
+    ]
+}
